@@ -11,3 +11,5 @@ https://flukeout.github.io/
 w3schools.comw3schools.com
 W3Schools.com
 W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more. (6 kB)
+
+FINE ESERCIZIO
